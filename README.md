@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/AakashYd/Aakash-Yadav/blob/main/Aakash%20Yadav.png)
 <h1 align="center">Hi 👋, I'm Aakash Yadav</h1>
 <h3 align="center">From ideas to algorithms.</h3>
 
